@@ -1,0 +1,12 @@
+{
+  "name": "create-sketch",
+  "version": "1.0.0",
+  "description": "A beautiful landing page for text-to-image generation",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
